@@ -1,2 +1,3 @@
 # DevTools
-file:///C:/Users/Sergey/Downloads/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82.pdf 
+https://docs.google.com/document/d/e/2PACX-1vTuxvGSspefnIrW5nkK11TDplepXPoamGZy8wgdWwXs-NHRA9yz-R2DgqZpJ7S9A_RdnWxPLMmlGfPK/pub 
+
